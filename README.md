@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sudarshan Karunanithy
-- 👀 I’m interested in **Data Analytics, Machine Learning, and Big Data Technologies.**
+- 👀 I’m interested in **Data Engineering and Analytics, Machine Learning, and Big Data Technologies.**
 - 🌱 I’m currently learning **Data Engineering and Analytics** at the Canadian College of Technology and Business.
 - 💼 I have experience with **Python, SQL, Power BI, and automation** to streamline data processes and enhance analytical insights.
 - 💞️ I’m looking to collaborate on **Data Analysis projects, Python development, SQL-based data manipulation, Power BI dashboards, and automation initiatives to improve data-driven decision-making.**
